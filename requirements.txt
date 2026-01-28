@@ -1,0 +1,21 @@
+# Core
+python>=3.9
+
+# Streamlit UI
+streamlit
+
+# NLP
+nltk
+regex
+
+# Semantic Search & Embeddings
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+
+# Data Handling
+pandas
+
+# Optional (Voice / LLM – keep optional)
+requests
